@@ -1,0 +1,14 @@
+{
+
+    "require": {
+        "slim/slim":"2.*"
+      },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+      },
+    "author":{
+    "name":"Victor Tsai",
+    "email":"princeoftennis735@gmail.com",
+    "role":"developer"
+    }
+}
